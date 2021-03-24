@@ -24,12 +24,12 @@
 <line class="st0" x1="0" y1="152.5" x2="1300" y2="152.5"/>
 <line class="st0" x1="0" y1="162.5" x2="1300" y2="162.5"/>
 <line class="st0" x1="0" y1="172.5" x2="1300" y2="172.5"/>
-<rect x="274" y="22" class="st1" width="1026" height="162.5"/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15" y1="102.75" x2="274" y2="102.75" gradientTransform="matrix(1 0 0 -1 0 206)">
+<rect x="195" y="22" class="st1" width="1105" height="162.5"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15" y1="573.25" x2="195" y2="573.25" gradientTransform="matrix(1 0 0 1 0 -470)">
 	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
 	<stop  offset="1" style="stop-color:#FFFFFF"/>
 </linearGradient>
-<rect x="15" y="22" class="st2" width="259" height="162.5"/>
+<rect x="15" y="22" class="st2" width="180" height="162.5"/>
 <g id="Ebene_1_1_" xmlns:ev="http://www.w3.org/2001/xml-events">
 	<line class="st3" x1="0" y1="0" x2="1300" y2="0"/>
 	<line class="st3" x1="0" y1="205" x2="1300" y2="205"/>
