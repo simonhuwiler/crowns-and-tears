@@ -1,16 +1,19 @@
-# Crowns and Tears - Covid-19 visualisation using a music box and punch cards...
-How are you? Hope you are doing well! Here you find everything I used to make a Covid-19 visualisation from my home country using a music box and punch cards. Feel free to contact me!
+# Crowns and Tears - Covid-19 visualisation using a music box, punch cards and too much of spare time...
+How are you? Hope you are doing well! Here you find everything I used to make a Covid-19 visualisation from my home country using a music box and punch cards. Feel free to contact me!  
+Stay healthy!  
+Simon  
+[journalist.ch](https://www.journalist.sh)
 ## Crowns and Tears - How it sounds
-[![IMAGE ALT TEXT HERE](docs/origin_preview.png)](http://www.youtube.com/watch?v=DqfrOPs2pKM)
+[![See the visualisation](docs/origin_preview.png)](http://www.youtube.com/watch?v=DqfrOPs2pKM)
 
 ## Crowns and Tears - What it should have sounded like
-[![IMAGE ALT TEXT HERE](docs/artificial_preview.png)](https://youtu.be/plj-s2xVi50)
+[![See the (artificial) visualisation](docs/artificial_preview.png)](https://youtu.be/plj-s2xVi50)
 
 ## Here you will find:
-* [The Sheet of Music](raw/master/sheet/crowns_and_tears.pdf)
-* [A sound file (mp3)](blob/master/sheet/crowns_and_tears.mp3)
-* [The punch card](blob/master/sheet/crowns_and_tears_stripes.pdf)
-* [The Source Code](blob/master/python/create%20stripes.ipynb)
+* [The Sheet of Music](sheet/crowns_and_tears.pdf)
+* [A sound file (mp3)](sheet/crowns_and_tears.mp3)
+* [The punch card](sheet/crowns_and_tears_stripes.pdf)
+* [The Source Code](python/create%20stripes.ipynb)
 * And other stuff like the inDesign version, a musicxml-export, etc. 
 
 ## How it works
