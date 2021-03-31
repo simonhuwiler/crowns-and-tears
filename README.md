@@ -25,7 +25,7 @@ I used [Muse Score](https://musescore.org/de) to compose the song. The python sc
 
 ## What you should consider
 * I used this music box from [Banggood](https://www.banggood.com/DIY-Hand-Cranked-Music-Box-15-Tone-Wooden-Box-With-Hole-Puncher-And-Paper-Tapes-Birthday-Gift-Present-p-1040359.html).
-* I wrote it in C-Mayor but the music box is actually in A flat major (or something like this).
+* I wrote it in C-Mayor (A-Minor) but the music box is actually in A flat major (or something like that).
 * If you like to play the same note twice, you need to leave some space between (at least a quarter, like the «days» in the video above). Otherwise the music box is not able to play it.
 * I printed it on 160g paper and sticked it to another 80g paper.
 * Ask your doctor if you get a typewriter's cramp from stamping out the cards...
