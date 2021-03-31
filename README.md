@@ -29,3 +29,6 @@ I used [Muse Score](https://musescore.org/de) to compose the song. The python sc
 * If you like to play the same note twice, you need to leave some space between (at least a quarter, like the «days» in the video above). Otherwise the music box is not able to play it.
 * I printed it on 160g paper and sticked it to another 80g paper.
 * Ask your doctor if you get a typewriter's cramp from stamping out the cards...
+
+## Behind the Scenes
+The Swiss radio RTS presented Crowns and Tears where I gave some insights. [You will find it here (french).](https://www.rts.ch/play/radio/vertigo/audio/vivre-en-musique-lemotion-du-nombre-de-morts-du-covid-en-suisse?id=12049399)
