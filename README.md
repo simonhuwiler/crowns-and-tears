@@ -31,4 +31,5 @@ I used [Muse Score](https://musescore.org/de) to compose the song. The python sc
 * Ask your doctor if you get a typewriter's cramp from stamping out the cards...
 
 ## Behind the Scenes
-The Swiss radio RTS presented Crowns and Tears where I gave some insights. [You will find it here (french).](https://www.rts.ch/play/radio/vertigo/audio/vivre-en-musique-lemotion-du-nombre-de-morts-du-covid-en-suisse?id=12049399)
+* The Swiss radio RTS presented Crowns and Tears where I gave some insights. [You will find it here (french).](https://www.rts.ch/play/radio/vertigo/audio/vivre-en-musique-lemotion-du-nombre-de-morts-du-covid-en-suisse?id=12049399)
+* AFP and La Presse did [write about it too.](https://www.lapresse.ca/actualites/insolite/2021-03-31/suisse/une-boite-a-musique-pour-raconter-l-epidemie-de-covid-19.php)
