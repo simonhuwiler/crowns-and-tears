@@ -16,6 +16,10 @@ Simon
 * [The Source Code](python/create%20stripes.ipynb)
 * And other stuff like the inDesign version, a musicxml-export, etc. 
 
+## Is is a data viz? Is it a data representation?
+Good question. Maybe both? In the background you see the death rate per day as a curve chart with annotations. The music follows the data but does not represent it number by number. Here some background information how I made it:  
+My first approach was: Let's give each note a number of death. Ofter composing couple bars I had to acknowledge: That's not how music works. Intensity and emotion in music is not about stacking more notes together. Sometimes nothing can hit you more than a quarter break. Dissonancec, tempo, chords, dynamics - so many things bring music to live. So I changed my approach and tried to write a corresponding soundtrack to the data. On the right side of my screen I had the data, day by day. Ond the left the music notation software. I went through every day in the data and looked for the corresponding sound, that respresents the data and still follows the rules of music.
+
 ## How it works
 I used [Muse Score](https://musescore.org/de) to compose the song. The python script does this:
 * Imports the sheets of music (it has to be saved as an uncompressed musicxml)
